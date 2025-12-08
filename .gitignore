@@ -3,6 +3,7 @@ venv/
 
 # Настройки окружения
 .env
+.idea/
 
 # Python cache
 __pycache__/
