@@ -4,6 +4,7 @@ venv/
 # Настройки окружения
 .env
 .idea/
+.vscode/
 
 # Python cache
 __pycache__/
